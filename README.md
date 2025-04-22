@@ -9,7 +9,7 @@ There is also similairty % on the cards that was created by using a databse of 1
 
 Link to Google Sheets Dashboard of Cards: https://docs.google.com/spreadsheets/d/1UOtN3xCAHYjNBj7HxBd9wIirMUwudHbP85VUu41f09o/edit?usp=sharing
 
-Full article is avaliable on my Medium: 
+Full article is avaliable on my Medium: https://medium.com/@KyleGalsky/2025-nfl-draft-rb-player-cards-0529f241f277
 
 Player Cards posted on my Twitter(X): https://x.com/KyleGalsky
 
